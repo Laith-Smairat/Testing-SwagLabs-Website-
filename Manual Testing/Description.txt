@@ -1,0 +1,1 @@
+Here you can find: test scenario, test cases, bug report, summary report.
